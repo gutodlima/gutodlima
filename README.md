@@ -1,5 +1,4 @@
 # Gutemberg Santos
-![](https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg)
 <img src="/icons/AWS-Dark.svg" alt="AWS" width="50" height="auto">
 <!--
 **gutodlima/gutodlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
