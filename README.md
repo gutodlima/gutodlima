@@ -7,8 +7,8 @@ Hello, you can call me Guto! I like working with data and transforming it into i
 ## 💻 Technical Skills
 [![SkillIcons](https://skillicons.dev/icons?i=py,mongodb,git,github,aws,gcp,vscode)](#)
 <a href="#"><img src="hadoop.svg" alt="AWS" width="50" height="auto"></a>
-<a href="#"><img src="spark.png" alt="AWS" width="50" height="auto"></a>
-<a href="#"><img src="airflow.svg" alt="AWS" width="50" height="auto"></a>
+<a href="#"><img src="spark.png" alt="spark" width="50" height="auto"></a>
+<a href="#"><img src="airflow.svg" alt="Airflow" width="50" height="auto"></a>
 
 
 ## 📧 Contact
