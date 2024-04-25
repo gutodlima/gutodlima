@@ -1,17 +1,19 @@
 # Gutemberg Santos
-<img src="/icons/AWS-Dark.svg" alt="AWS" width="50" height="auto">
-<!--
-**gutodlima/gutodlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙄 About me !
+ 
 
-Here are some ideas to get you started:
+## SKILLS
+[![SkillIcons](https://skillicons.dev/icons?i=py,mongodb,git,github,aws,gcp,vscode)](#)
+<a href="#"><img src="hadoop.svg" alt="AWS" width="50" height="auto"></a>
+<a href="#"><img src="spark.png" alt="AWS" width="50" height="auto"></a>
+<a href="#"><img src="airflow.svg" alt="AWS" width="50" height="auto"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 My contacts
+
+<div style="display: inline_block">
+  <a href="https://www.linkedin.com/in/gutemberg-santos-59177035/"><img width="48" height="48" src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-net2o24e.png" alt="linkedin"/></a>
+</div>
+
+
 

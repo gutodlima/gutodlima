@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<svg width="256" height="256" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="#242938" height="256" id="svg_1" rx="60" transform="matrix(1 0 0 1 0 0)" width="256"/>
+  <use id="svg_18" transform="matrix(0.870762 0 0 0.870762 -171.89 -148.357)" x="217.17" xlink:href="#svg_17" y="188.99"/>
+ </g>
+ <defs>
+  <symbol height="256" id="svg_17" preserveAspectRatio="xMidYMid" viewBox="0 0 256 256" width="256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <radialGradient cx=".000016%" cy="99.999994%" gradientTransform="matrix(.832531 0 0 .832531 0 .167469)" id="svg_16" r="120.115697%">
+    <stop offset="0" stop-color="#00c812"/>
+    <stop offset="1" stop-color="#006e00"/>
+   </radialGradient>
+   <radialGradient cx=".000006%" cy="-.000385%" gradientTransform="matrix(0 .832534 -.832531 0 -.000003 -.000004)" id="svg_15" r="120.115697%">
+    <stop offset="0" stop-color="#56affd"/>
+    <stop offset="1" stop-color="#04a3ff"/>
+   </radialGradient>
+   <radialGradient cx="99.999984%" cy=".000006%" gradientTransform="matrix(-.832531 0 0 -.832531 1.832531 0)" id="svg_14" r="120.115697%">
+    <stop offset="0" stop-color="#df1f00"/>
+    <stop offset="1" stop-color="#560d00"/>
+   </radialGradient>
+   <radialGradient cx="99.999994%" cy="100.000694%" gradientTransform="matrix(0 -.832536 .832531 0 .167463 1.832543)" id="svg_13" r="120.115697%">
+    <stop offset="0" stop-color="#00fffd"/>
+    <stop offset="1" stop-color="#00daff"/>
+   </radialGradient>
+   <radialGradient cx=".000355%" cy="99.999994%" gradientTransform="matrix(1 0 0 1.00000352 0 -.000004)" id="svg_12" r="99.99964%">
+    <stop offset="0" stop-color="#008200"/>
+    <stop offset="1" stop-color="#007500"/>
+   </radialGradient>
+   <radialGradient cx=".000006%" cy=".000091%" gradientTransform="matrix(0 1 -1.00000003 0 .000001 .000001)" id="svg_11" r="99.999904%">
+    <stop offset="0" stop-color="#3166d4"/>
+    <stop offset="1" stop-color="#1a509e"/>
+   </radialGradient>
+   <radialGradient cx="100.000355%" cy=".000006%" gradientTransform="matrix(-1 0 0 -.99999654 2.000008 0)" id="svg_10" r="100.00035%">
+    <stop offset="0" stop-color="#8e1400"/>
+    <stop offset="1" stop-color="#4b0b00"/>
+   </radialGradient>
+   <radialGradient cx="99.999994%" cy="100.001042%" gradientTransform="matrix(0 -1 1.00000701 0 -.000017 2.00001)" id="svg_9" r="99.999333%">
+    <stop offset="0" stop-color="#0090c4"/>
+    <stop offset="1" stop-color="#005d8c"/>
+   </radialGradient>
+   <radialGradient cx="0%" cy="99.998902%" gradientTransform="matrix(1 0 0 .99998603 0 .000014)" id="svg_8" r="99.999992%">
+    <stop offset="0" stop-color="#00cd1c"/>
+    <stop offset="1" stop-color="#00e950"/>
+   </radialGradient>
+   <radialGradient cx="-.000007%" cy="-.000012%" gradientTransform="matrix(0 1 -1.00000076 0 0 0)" id="svg_7" r="99.999992%">
+    <stop offset="0" stop-color="#b1c8fd"/>
+    <stop offset="1" stop-color="#7ec3fd"/>
+   </radialGradient>
+   <radialGradient cx="99.999987%" cy="-.000007%" gradientTransform="matrix(-1 0 0 -1.00000076 2 0)" id="svg_6" r="99.999992%">
+    <stop offset="0" stop-color="#e12a00"/>
+    <stop offset="1" stop-color="#b62f00"/>
+   </radialGradient>
+   <radialGradient cx="100.000007%" cy="100%" gradientTransform="matrix(0 -1 1.00001695 0 -.000017 2)" id="svg_5" r="99.998364%">
+    <stop offset="0" stop-color="#00b6dd"/>
+    <stop offset="1" stop-color="#0ff"/>
+   </radialGradient>
+   <path d="m179.2,230.4l76.8,0l-122.88,-102.4c-1.69,37.19 14.69,73.58 46.08,102.4" fill="url(#svg_16)"/>
+   <path d="m25.6,179.2l0,76.8l102.4,-122.88c-1.75,-0.08 -3.48,-0.12 -5.22,-0.12c-35.36,0 -69.71,16.28 -97.18,46.2" fill="url(#svg_15)"/>
+   <path d="m0,25.6l122.88,102.4c1.69,-37.19 -14.69,-73.58 -46.08,-102.4l-76.8,0z" fill="url(#svg_14)"/>
+   <path d="m230.4,0l-102.4,122.88c37.19,1.69 73.58,-14.69 102.4,-46.08l0,-76.8z" fill="url(#svg_13)"/>
+   <path d="m128,128c-11.48,29.75 -9.75,60.09 5.12,89.6c15.36,7.68 28.16,12.8 46.08,12.8c-31.39,-28.82 -47.77,-65.21 -46.08,-102.4l-5.12,0z" fill="url(#svg_12)"/>
+   <path d="m38.4,133.12c-7.68,15.36 -12.8,28.16 -12.8,46.08c28.82,-31.39 65.21,-47.77 102.4,-46.08l0,-5.12c-12.94,-4.99 -25.99,-7.49 -39.04,-7.49c-16.95,0.01 -33.88,4.21 -50.56,12.61" fill="url(#svg_11)"/>
+   <path d="m122.88,128l5.12,0c11.48,-29.75 9.75,-60.09 -5.12,-89.6c-15.36,-7.68 -28.16,-12.8 -46.08,-12.8c31.39,28.82 47.77,65.21 46.08,102.4" fill="url(#svg_10)"/>
+   <path d="m128,122.88l0,5.12c29.75,11.48 60.09,9.74 89.6,-5.12c7.68,-15.36 12.8,-28.16 12.8,-46.08c-28.82,31.39 -65.21,47.77 -102.4,46.08" fill="url(#svg_9)"/>
+   <path d="m71.68,166.4l61.44,51.2c-14.86,-29.51 -16.6,-59.85 -5.12,-89.6c-1.78,-0.59 -3.86,-0.88 -6.16,-0.88c-17.6,0.01 -47.9,16.64 -50.16,39.28" fill="url(#svg_8)"/>
+   <path d="m38.4,133.12c29.51,-14.86 59.85,-16.6 89.6,-5.12c5.12,-15.36 -12.8,-53.76 -38.4,-56.32l-51.2,61.44z" fill="url(#svg_7)"/>
+   <path d="m128,128c15.36,5.12 53.76,-12.8 56.32,-38.4l-61.44,-51.2c14.87,29.51 16.6,59.84 5.12,89.6" fill="url(#svg_6)"/>
+   <path d="m128,128c-5.12,15.36 12.8,53.76 38.4,56.32l51.2,-61.44c-29.51,14.86 -59.84,16.6 -89.6,5.12" fill="url(#svg_5)"/>
+   <path d="m128,121.6c3.53,0 6.4,2.87 6.4,6.4c0,3.54 -2.87,6.4 -6.4,6.4c-3.53,0 -6.4,-2.86 -6.4,-6.4c0,-3.53 2.87,-6.4 6.4,-6.4"/>
+  </symbol>
+ </defs>
+</svg>
